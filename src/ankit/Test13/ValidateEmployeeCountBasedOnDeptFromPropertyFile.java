@@ -57,7 +57,7 @@ public class ValidateEmployeeCountBasedOnDeptFromPropertyFile {
 		FileInputStream inputStream = new FileInputStream(file);
 		Properties prop = new Properties();
 		prop.load(inputStream);
-		return prop.getProperty(targetKey);
+		return prop.getProperty(targetKey) ;
 	}
 	
 	public static void verifyDepartmentEmployeeCount(HashMap<String, Integer> deptEmpHM) throws IOException {
