@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28218" started-at="2021-06-20T18:18:22Z" finished-at="2021-06-20T18:18:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28218" started-at="2021-06-20T18:18:22Z" finished-at="2021-06-20T18:18:51Z">
+      <class name="simmi.TestCase_15.TestCase15">
+        <test-method status="PASS" signature="operation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:simmi.TestCase_15.TestCase15@d2cc05a]" name="operation" duration-ms="14674" started-at="2021-06-20T18:18:22Z" data-provider="loginDetailsProvider" finished-at="2021-06-20T18:18:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[simmi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[simmi217]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Failed! please enter strong password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operation -->
+        <test-method status="PASS" signature="operation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:simmi.TestCase_15.TestCase15@d2cc05a]" name="operation" duration-ms="6827" started-at="2021-06-20T18:18:37Z" data-provider="loginDetailsProvider" finished-at="2021-06-20T18:18:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jessi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jessi2008]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Success!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operation -->
+        <test-method status="PASS" signature="operation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:simmi.TestCase_15.TestCase15@d2cc05a]" name="operation" duration-ms="6684" started-at="2021-06-20T18:18:44Z" data-provider="loginDetailsProvider" finished-at="2021-06-20T18:18:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[charlie]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[charlie2000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Success!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operation -->
+      </class> <!-- simmi.TestCase_15.TestCase15 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
