@@ -64,7 +64,7 @@ public class ValidateEmployeeCountBasedOnDeptFromPropertyFile {
 		Set<String> HMDeptID = deptEmpHM.keySet();
 		for(String deptName : HMDeptID) {
 			//String countDepEmpPropst = getDataFromPropertyAsPerKey("F:\\New Beginning\\Eclipse Workspace\\SeleniumTechnoMar2021\\src\\ankit\\AM_config\\DeptEmpCount.properties", deptName);
-			PropertyFileReader_util propertyFileReader_util = new PropertyFileReader_util("F:\\New Beginning\\Eclipse Workspace\\SeleniumTechnoMar2021\\src\\ankit\\AM_config\\DeptEmpCount.properties");
+			PropertyFileReader_util propertyFileReader_util = new PropertyFileReader_util("./src/ankit/AM_config/DeptEmpCount.properties");
 			String countDepEmpPropst = propertyFileReader_util.getValueFromKey(deptName);
 			int countDepEmpProp = Integer.valueOf(countDepEmpPropst);
 			int countDepEmpHM = deptEmpHM.get(deptName);
