@@ -7,8 +7,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import krati_Shukla.Selenium.base.SetURL;
-
 public class Test3a {
 
 	public static void main(String[] args) throws InterruptedException {

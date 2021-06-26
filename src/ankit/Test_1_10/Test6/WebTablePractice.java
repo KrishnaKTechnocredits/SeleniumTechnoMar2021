@@ -1,9 +1,6 @@
 package ankit.Test_1_10.Test6;
 
-import java.util.Collections;
 import java.util.List;
-import java.util.TreeMap;
-import java.util.TreeSet;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

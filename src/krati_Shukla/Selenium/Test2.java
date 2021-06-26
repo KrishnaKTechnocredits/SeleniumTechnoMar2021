@@ -1,7 +1,6 @@
 package krati_Shukla.Selenium;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 
 import krati_Shukla.Selenium.base.SetURL;
 
