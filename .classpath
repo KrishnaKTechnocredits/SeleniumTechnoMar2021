@@ -9,5 +9,7 @@
 	<classpathentry kind="lib" path="libs/guava-25.0-jre.jar"/>
 	<classpathentry kind="lib" path="libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="libs/okio-1.14.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Monika.Kaul/Documents/eclipse-java-oxygen-3a-win32-x86_64/eclipse/plugins/org.testng_6.14.3.r201802240500.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
