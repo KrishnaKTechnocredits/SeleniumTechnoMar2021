@@ -5,7 +5,6 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedHashSet;
 import java.util.List;
-import java.util.TreeSet;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

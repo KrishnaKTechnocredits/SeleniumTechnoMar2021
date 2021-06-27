@@ -3,7 +3,6 @@ package ankit.Test_1_10.Test8;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.Scanner;
 
 import org.openqa.selenium.By;
@@ -12,8 +11,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
-import com.google.common.collect.HashBiMap;
 
 public class MapOfTwoColumnsOfTable {
 	

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <parameter name="browser" value="ff"></parameter>
+  
+  <test name="Test">
+  	<parameter name="browser" value="ie"></parameter>
+    <groups>
+    	<run>
+    		<include name="smoke"></include>
+    	</run>
+    </groups>
+    <classes>
+      <class name="testngDemo.ParameterTest1"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="Test">
+  	<parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="testngDemo.ParameterTest2"/>
+    </classes>
+  </test>
+  
+  <test name="Test">
+  	<classes>
+      <class name="testngDemo.ParameterTest3"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->
