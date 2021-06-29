@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="surabhi.automationByKrishna_TestNG.basicElement.TestCase3"/>    
+      <class name="surabhi.automationByKrishna_TestNG.basicElement.TestCase4"/> 
+      <class name="surabhi.automationByKrishna_TestNG.basicElement.TestCase5"/> 
+      <class name="surabhi.automationByKrishna_TestNG.basicElement.TestCase6"/> 
+      <class name="surabhi.automationByKrishna_TestNG.basicElement.TestCase7"/>      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
