@@ -9,5 +9,29 @@
 	<classpathentry kind="lib" path="libs/guava-25.0-jre.jar"/>
 	<classpathentry kind="lib" path="libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/lib/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/lib/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-5.0.0 - Copy.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/ooxml-lib/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/ooxml-lib/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="E:/Software/poi-bin-5.0.0-20210120/poi-5.0.0/ooxml-lib/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Software/org.testng.eclipse_6.11.0.201703011520/org.testng.eclipse_6.11.0.201703011520/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="E:/Software/org.testng.eclipse_6.11.0.201703011520/org.testng.eclipse_6.11.0.201703011520/lib/guava-base-r03.jar"/>
+	<classpathentry kind="lib" path="E:/Software/org.testng.eclipse_6.11.0.201703011520/org.testng.eclipse_6.11.0.201703011520/lib/guava-collections-r03.jar"/>
+	<classpathentry kind="lib" path="E:/Software/org.testng.eclipse_6.11.0.201703011520/org.testng.eclipse_6.11.0.201703011520/lib/jcommander.jar"/>
+	<classpathentry kind="lib" path="E:/Software/org.testng.eclipse_6.11.0.201703011520/org.testng.eclipse_6.11.0.201703011520/lib/snakeyaml.jar"/>
+	<classpathentry kind="lib" path="E:/Software/org.testng.eclipse_6.11.0.201703011520/org.testng.eclipse_6.11.0.201703011520/lib/testng.jar"/>
+	<classpathentry kind="lib" path="E:/Software/org.testng.eclipse_6.11.0.201703011520/org.testng.eclipse_6.11.0.201703011520/lib/testng-remote.jar"/>
+	<classpathentry kind="lib" path="E:/Software/org.testng.eclipse_6.11.0.201703011520/org.testng.eclipse_6.11.0.201703011520/lib/testng-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
