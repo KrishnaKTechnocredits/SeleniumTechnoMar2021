@@ -111,6 +111,8 @@ public class TestCase_17_MouseHover {
 		System.out.println(list11.size());
 		for(WebElement ele1 : list11 ) {
 			System.out.println(ele1.getText());
+			System.out.println(ele1.getText());
+
 		}		
 		
 	}
