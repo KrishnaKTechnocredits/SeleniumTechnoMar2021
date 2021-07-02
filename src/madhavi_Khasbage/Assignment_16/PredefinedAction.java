@@ -1,0 +1,13 @@
+package madhavi_Khasbage.Assignment_16;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class PredefinedAction {
+	public static WebDriver setUp(String url) {
+		System.getProperty("wedriver.chrome.driver", "chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.get(url);
+		return driver;
+	}
+}
