@@ -11,6 +11,7 @@ import base.PredefinedActions;
 
 public class AutomationByKrishnaLoginTest {
 
+
 	public static void main(String[] args) throws InterruptedException {
 		String expectedFailedMessage = "Failed! please enter strong password";
 		String expectedSuccessMessage = "Success!";
