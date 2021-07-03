@@ -13,7 +13,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-
+import madhavi_Khasbage.base.PredefinedActions;
 
 public class RegistrationLoginTest {
 	WebDriver driver;
@@ -22,7 +22,7 @@ public class RegistrationLoginTest {
 	void startUp() {		
 		System.out.println("Step1:Launch Brower");
 		String expectedUrl="http://automationbykrishna.com/";		
-		driver = PredefinedAction.setUp(expectedUrl);
+		driver = PredefinedActions.setUp(expectedUrl);
 		driver.manage().window().maximize();		
 	}
 
