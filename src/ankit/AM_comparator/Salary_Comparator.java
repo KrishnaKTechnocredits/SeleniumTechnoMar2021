@@ -1,4 +1,4 @@
-package Tests.Test14_TestNGConversion;
+package ankit.AM_comparator;
 
 import java.util.Comparator;
 

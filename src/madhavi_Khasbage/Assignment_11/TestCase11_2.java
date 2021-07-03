@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import MadhaviKhasbage.basic.PredefinedActions;
+import madhavi_Khasbage.basic.PredefinedActions;
 
 /*Test Case 11
 program 2 : how many managers we have.

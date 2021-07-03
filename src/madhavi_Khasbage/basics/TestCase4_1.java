@@ -1,12 +1,13 @@
 package madhavi_Khasbage.basics;
+import java.util.concurrent.TimeUnit;
+
 /*
  * http://automationbykrishna.com/index.html#
  * validate isSelected on automationbykrishna's registration page if male radio button is selected then click on female*/
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import MadhaviKhasbage.basic.PredefinedActions;
-import java.util.concurrent.TimeUnit;
+import madhavi_Khasbage.base.PredefinedActions;
 
 public class TestCase4_1 {
 	
