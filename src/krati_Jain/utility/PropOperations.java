@@ -5,8 +5,6 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
-import org.testng.internal.ant.AntReporterConfig.Property;
-
 public class PropOperations {
 
 	public void propReading(String filePath) throws IOException {

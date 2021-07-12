@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import MadhaviKhasbage.basic.PredefinedActions;
+import madhavi_Khasbage.Assignment_13.PredefinedActions;
 
 /*program 3: how many employees we have.
 ans : 8

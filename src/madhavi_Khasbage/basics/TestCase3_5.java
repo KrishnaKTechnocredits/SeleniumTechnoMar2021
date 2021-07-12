@@ -2,12 +2,11 @@ package madhavi_Khasbage.basics;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import MadhaviKhasbage.basic.PredefinedActions;
+import madhavi_Khasbage.base.PredefinedActions;
 
 /*Test case 3_5
 JS Prompt

@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import MadhaviKhasbage.basic.PredefinedActions;
+import madhavi_Khasbage.base.PredefinedActions;
 
 /* test case 9 >> verify username from table "EMPLOYEE BASIC INFORMATION"*/
 

@@ -4,7 +4,8 @@ import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-import MadhaviKhasbage.basic.PredefinedActions;
+import madhavi_Khasbage.base.PredefinedActions;
+
 /*TC#1 - First Box
 - Enter Fname, Lname and Company name.
 - click submit.
@@ -38,6 +39,6 @@ public class TestCase3_1 {
 		} else {
 			System.out.println("Test Fail");
 		}
-		
+
 	}
 }

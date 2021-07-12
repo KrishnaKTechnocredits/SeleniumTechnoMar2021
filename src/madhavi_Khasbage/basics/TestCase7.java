@@ -1,7 +1,7 @@
 package madhavi_Khasbage.basics;
 
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -9,7 +9,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import MadhaviKhasbage.basic.PredefinedActions;
+import madhavi_Khasbage.base.PredefinedActions;
 
 /*Test case 7 >> rows and cols are dynamic, get the lastname of the emp whoes firstname is "Abhishek".*/
 

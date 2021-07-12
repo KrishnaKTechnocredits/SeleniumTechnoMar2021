@@ -2,10 +2,8 @@ package madhavi_Khasbage.basics;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.Select;
 
-import MadhaviKhasbage.basic.PredefinedActions;
+import madhavi_Khasbage.base.PredefinedActions;
 
 /*Task for today  
 1. validate visible button functionality click on button and validate button is displayed or not and vice versa

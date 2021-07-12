@@ -3,7 +3,8 @@ package madhavi_Khasbage.basics;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import MadhaviKhasbage.basic.PredefinedActions;
+
+import madhavi_Khasbage.base.PredefinedActions;
 
 /*Test Case 3_4
 JS confirmation

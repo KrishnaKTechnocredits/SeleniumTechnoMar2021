@@ -13,15 +13,13 @@ https://datatables.net/extensions/autofill/examples/initialisation/focus.html
 */
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import MadhaviKhasbage.basic.PredefinedActions;
+import madhavi_Khasbage.base.PredefinedActions;
 
 public class TestCase3_6 {
 
